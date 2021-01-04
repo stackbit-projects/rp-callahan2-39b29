@@ -10,25 +10,25 @@ sections:
     section_id: intro
     type: section_content
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam,
-      elementum consectetur elit non, tempus varius leo. In ut bibendum mauris.
-      Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed
-      condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis.
-      Aliquam facilisis neque eget ligula aliquam consequat.
+      ## About Me
 
-      ### This is an H3. Use it for subheads and subsections.
 
-      Donec malesuada, augue eu blandit porta, metus metus auctor leo, non
-      dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an
-      inline link](#) placerat non, eleifend tempor dolor. Quisque sed nisl
-      elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea
-      dictumst. Mauris sed odio magna. Duis felis turpis, posuere at erat nec,
-      condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia
-      aliquam velit. Mauris ut purus in nisl suscipit feugiat.
-
-      Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
-      Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
-      porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
+      I am a Ph.D. candidate working with Dr. Cliff Riebe at the University of
+      Wyoming. My dissertation focuses on quantifying how subsurface weathering
+      influence geomorphic and ecological processes. More specifically, I have
+      worked on quantifying how hillslope weathering influences, hillslope
+      erosion, and river incision over millennial timescales in the southern
+      Sierra Nevada, California. I have also worked on quantifying weathering
+      over hillslope scales using near-surface geophysical techniques.
+      Additionally, I have integrated near-surface geophysical methods and
+      remote sensing measurements to quantify how subsurface weathering
+      influences ecosystem productivity and drought response during the historic
+      2011-2017 drought in the southern Sierra Nevada, California. My research
+      has greatly benefitted from transdisciplinary collaborations through the
+      Southern Sierra Critical Zone Observatory and the recently funded [Bedrock
+      Critical Zone Collaborative Network](https://bedrockczn.github.io/). For
+      more information on my research check out my publications or reach out to
+      me at [rcallaha@uwyo.edu](rcallaha@uwyo.edu) with any questions.
   - title: Recent Posts
     section_id: posts
     type: section_posts
