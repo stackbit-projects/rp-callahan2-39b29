@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UI Kit
+title: CV
 subtitle: ''
 ---
 
