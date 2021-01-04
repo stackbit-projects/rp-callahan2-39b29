@@ -11,7 +11,7 @@ header:
   nav_links:
     - label: Home
       url: /
-    - label: Generic
+    - label: Publications
       url: /generic/
     - label: Elements
       url: /elements/
