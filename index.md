@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Russell Callahan
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: ''
     image: images/avatar.png
   - title: Text
     section_id: intro
