@@ -34,23 +34,18 @@ sections:
     type: section_content
     image: images/art.svg
     content: >-
-      Hi this is my text and image block. Vis accumsan feugiat adipiscing nisl
-      amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus
-      aliquet placerat commodo. 
-
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. 
-
-      Id massa aliquet arcu accumsan lorem amet accumsan.
+      ## New Paper out in GRL
 
 
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
+      Check out my [new paper](https://doi.org/10.1029/2020GL088322) out in
+      *Geophysical Research Letters*. The paper presents a new approach for
+      quantifying subsurface weathering across hillslope scales. This approach
+      aggregates porosity across geophysical surveys to produce a site-wide
+      perspective of subsurface weathering and has direct implications for
+      understanding subsurface weathering and water storage capacity across
+      landscapes.
+
+
+      ![GRL_image](https://rp-callahan.github.com/images/grl.png)
 layout: advanced
 ---
