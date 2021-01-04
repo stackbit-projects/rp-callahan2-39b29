@@ -27,7 +27,7 @@ footer:
       url: 'https://twitter.com/'
       new_window: true
     - label: Google Scholar
-      url: 'https://www.linkedin.com/'
+      url: 'https://scholar.google.com/citations?user=k76PA1kAAAAJ&hl=en'
       new_window: true
     - label: DEV
       url: 'https://dev.to/'
