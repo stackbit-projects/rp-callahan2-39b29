@@ -24,7 +24,7 @@ footer:
   has_social: true
   social_links:
     - label: Twitter
-      url: 'https://twitter.com/'
+      url: 'https://twitter.com/rp_callahan'
       new_window: true
     - label: Google Scholar
       url: 'https://scholar.google.com/citations?user=k76PA1kAAAAJ&hl=en'
