@@ -5,7 +5,7 @@ sections:
     type: section_hero
     title: Russell Callahan
     subtitle: ''
-    image: images/avatar.png
+    image: images/20170730_113606_resize2.jpg
   - title: Text
     section_id: intro
     type: section_content
