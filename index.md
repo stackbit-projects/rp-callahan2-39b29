@@ -29,11 +29,6 @@ sections:
       Critical Zone Collaborative Network](https://bedrockczn.github.io/). For
       more information on my research check out my publications or reach out to
       me at [rcallaha@uwyo.edu](rcallaha@uwyo.edu) with any questions.
-  - title: Recent Posts
-    section_id: posts
-    type: section_posts
-    has_more_link: true
-    more_link_text: Read more
   - title: A Cat
     section_id: cat
     type: section_content
