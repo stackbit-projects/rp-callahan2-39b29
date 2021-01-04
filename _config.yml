@@ -30,7 +30,7 @@ footer:
       url: 'https://scholar.google.com/citations?user=k76PA1kAAAAJ&hl=en'
       new_window: true
     - label: ORCiD
-      url: 'https://dev.to/'
+      url: 'https://orcid.org/0000-0002-0091-3446'
       new_window: true
 sass:
   indentWidth: 4
