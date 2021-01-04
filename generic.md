@@ -1,5 +1,5 @@
 ---
-title: Just a Generic Page
+title: Publications
 subtitle: ''
 layout: page
 ---
